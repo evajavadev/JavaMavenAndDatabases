@@ -4,6 +4,7 @@ Java Maven Spring projects with and without databases
 
 <br>
 
-AccountProjectLean10Juli
+>>  [AccountProjectDevelopLean10Juli](https://github.com/evajavadev/JavaMaven_AccountProjectDevelopLean10Juni)
 
-AccountProjectLean17Juli
+>>  [AccountProjectDevelopLean17Juli](https://github.com/evajavadev/JavaMaven_AccountProjectDevelopLean17Juni)
+
