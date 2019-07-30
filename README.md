@@ -6,13 +6,21 @@ Java Maven Spring projects with and without databases
 
 ### Title
 
->>  [Lean Account/Develop 10 July](https://github.com/evajavadev/Lean_AccountDevelop10July)
+text...
 
->>  [Lean Account/Develop 17 July](https://github.com/evajavadev/Lean_AccountDevelop17July)
+<br>
 
->>  Lean Account/Develop Merged 
+### Title
+
+✅ &nbsp; [Lean Account/Develop 10 July](https://github.com/evajavadev/Lean_AccountDevelop10July)
+
+✅ &nbsp; [Lean Account/Develop 17 July](https://github.com/evajavadev/Lean_AccountDevelop17July)
+
+✅ &nbsp; [Lean Account/Develop July Merged](https://github.com/evajavadev/Lean_AccountDevelopJulyMerged) 
+
+>  [Lean Account/Develop Further Services](https://github.com/evajavadev/Lean_AccountDevelopFurtherServices) 
 
 <br>
 <br>
 
-(ongoing repository with titles a s o)
+(ongoing repository)
