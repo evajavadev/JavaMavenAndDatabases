@@ -20,6 +20,8 @@ text...
 
 text description...
 
+<br>
+
 ✅ &nbsp; [Lean Account/Develop 10 July](https://github.com/evajavadev/Lean_AccountDevelop10July)
 
 ✅ &nbsp; [Lean Account/Develop 17 July](https://github.com/evajavadev/Lean_AccountDevelop17July)
