@@ -1,5 +1,7 @@
 # Java Maven and Databases
 
+<br>
+
 Java Maven Spring projects with and without databases
 
 <br>
@@ -17,6 +19,8 @@ text...
 <br>
 
 ## The Lean Account
+
+<br>
 
 The four repo's below are a continuation from a school assignment, where the orginally account resides under the develop branch in our school repository.
 
