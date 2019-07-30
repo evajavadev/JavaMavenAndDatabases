@@ -22,6 +22,8 @@ The four repo's below are a continuation from a school assignment, where the org
 
 In this stage I found it useful and really educating to separate the components in use in the project from the ones that will be in use later on. So the Lean Account includes only the following components: 
 
+<br>
+
 ![the components in the lean account](/images/components_lean_acc.jpg)
 
 <br>
@@ -45,6 +47,7 @@ Whereas the whole project all together includes the following components:
 
 > &nbsp; [Lean Account/Develop Further Services](https://github.com/evajavadev/Lean_AccountDevelopFurtherServices) 
 
+<br>
 <br>
 <br>
 
