@@ -46,7 +46,7 @@ Whereas the project all together includes the following components:
 
 <br>
 
-The Account Project lets ...  Spring coordiante ... while Maven sets up
+The Account Project lets ...  
 
  
 <br>
@@ -62,7 +62,7 @@ Just clone or download the Lean Accounts below. Using IntelliJ will make it easy
 
 ✅ &nbsp; [Lean Account/Develop 10 July](https://github.com/evajavadev/Lean_AccountDevelop10July)
 
-Account10 is the starting point for the four accounts. Play around with all the tests (common, integration and unit). Every test works fine but note the test message that will be given for the `AccountComponentEntityUnitTest` in its component `account-component-test-unit`. Following its path to the comment in the related file will...   
+Account10 is the starting point for the four accounts. Play with the tests (common, integration and unit). They work fine but note the test message that will be given for the `AccountComponentEntityUnitTest` in its component `account-component-test-unit`. And following its path to the comment in the related file will show one solution. 
 
 <br>
 <br>
