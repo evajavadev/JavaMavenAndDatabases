@@ -24,6 +24,7 @@ text...
 
 <br>
 <br>
+<br>
 
 ## The Lean Account
 
@@ -50,12 +51,16 @@ The Account Project lets ...  Spring coordiante ... while Maven sets up
  
 <br>
 <br>
+<br>
 
 
 ### IntelliJ and content 
 
+<br>
+
 Just clone or download the Lean Accounts below. Using IntelliJ will make it easy since the project is developed with IntelliJ. 
 
+<br>
 <br>
 
 ✅ &nbsp; [Lean Account/Develop 10 July](https://github.com/evajavadev/Lean_AccountDevelop10July)
@@ -83,6 +88,7 @@ A plain merge between the two accounts above. For an easy history comparison.
 
 The merged account with additional new services.
 
+<br>
 <br>
 <br>
 <br>
