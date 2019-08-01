@@ -66,10 +66,6 @@ Just clone or download the Lean Accounts below. Using IntelliJ will make it easy
 
 <br>
 
-#### test
-
-<br>
-
 
 ✅ &nbsp; [Lean Account/Develop 10 July](https://github.com/evajavadev/Lean_AccountDevelop10July)
 
