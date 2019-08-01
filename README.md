@@ -56,11 +56,8 @@ The Account Project lets ...  Spring coordiante ... while Maven sets up
 
 ### IntelliJ and content 
 
-<br>
-
 Just clone or download the Lean Accounts below. Using IntelliJ will make it easy since the project is developed with IntelliJ. 
-
-<br>
+ 
 <br>
 
 ✅ &nbsp; [Lean Account/Develop 10 July](https://github.com/evajavadev/Lean_AccountDevelop10July)
