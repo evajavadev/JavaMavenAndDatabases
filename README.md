@@ -60,9 +60,11 @@ Just clone or download the Lean Accounts below. Using IntelliJ will make it easy
 
 ✅ &nbsp; [Lean Account/Develop 10 July](https://github.com/evajavadev/Lean_AccountDevelop10July)
 
-Account10 is the starting point for the four accounts. Play around with all the tests (common, integration and unit). Every test works fine but note the test message that will be given for the `AccountComponentEntityUnitTest` in its component `account-component-test-unit`. Following its path to the comment in the related file.   
+Account10 is the starting point for the four accounts. Play around with all the tests (common, integration and unit). Every test works fine but note the test message that will be given for the `AccountComponentEntityUnitTest` in its component `account-component-test-unit`. Following its path to the comment in the related file will...   
+
 
 <br>
+
 
 ✅ &nbsp; [Lean Account/Develop 17 July](https://github.com/evajavadev/Lean_AccountDevelop17July)
 
