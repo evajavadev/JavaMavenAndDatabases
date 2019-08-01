@@ -70,11 +70,13 @@ Account10 is the starting point for the four accounts. Play around with all the 
 In account17 the error is solved. And `placeOrder` is added. 
 
 <br>
+<br>
 
 > &nbsp; [Lean Account/Develop July Merged](https://github.com/evajavadev/Lean_AccountDevelopJulyMerged) 
 
 A plain merge between the two accounts above. For an easy history comparison. 
 
+<br>
 <br>
 
 > &nbsp; [Lean Account/Develop New Services](https://github.com/evajavadev/Lean_AccountDevelopNewServices)  
