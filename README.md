@@ -17,7 +17,7 @@ On its way... &nbsp;⛷️ &nbsp; &nbsp; (v.33)
 
 ### What is Maven?
 
-On its way... &nbps;⛷️ &nbsp; &nbsp; (v.33)
+On its way... &nbsp;⛷️ &nbsp; &nbsp; (v.33)
 
 <br>
 
