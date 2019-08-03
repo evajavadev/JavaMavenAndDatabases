@@ -11,13 +11,13 @@ Java Maven Spring projects with and without databases
 
 ### What is Spring?
 
-text...
+On its way... ⛷️ (v.33)  
 
 <br>
 
 ### What is Maven?
 
-text...
+On its way... ⛷️ (v.33)
 
 <br>
 
@@ -53,6 +53,8 @@ Whereas the project all together includes the following components:
 
 ...
 
+<br>
+
 ![the components all together](/images/components_mapper.jpg)
  
 <br>
@@ -75,7 +77,7 @@ Account10 is the starting point for the four accounts. Play with the tests (comm
 
 ✅ &nbsp; [Lean Account/Develop 17 July](https://github.com/evajavadev/Lean_AccountDevelop17July)
 
-In account17 the error is solved. And `placeOrder` is added. Additionally, contains last commit (3 aug) the mapper. 
+In account17 the error is solved. And `placeOrder` is added. Additionally to the last commit (3 aug) that contains the mapper. 
 
 <br>
 <br>
