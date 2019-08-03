@@ -11,13 +11,13 @@ Java Maven Spring projects with and without databases
 
 ### What is Spring?
 
-On its way... ⛷️ (v.33)  
+On its way... ⛷️ &nbsp; (v.33)  
 
 <br>
 
 ### What is Maven?
 
-On its way... ⛷️ (v.33)
+On its way... ⛷️ &nbsp; (v.33)
 
 <br>
 
