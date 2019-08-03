@@ -1,3 +1,6 @@
+
+<br>
+
 # Java Maven and Databases
 
 <br>
@@ -42,12 +45,15 @@ In this stage I found it useful and really educating to separate the project com
 
 Whereas the project all together includes the following components:
 
+<br>
+
 ![the components all together](/images/components_alltogether.jpg)  
 
 <br>
 
-The Account Project lets ...  
+...
 
+![the components all together](/images/components_mapper.jpg)
  
 <br>
 <br>
@@ -69,12 +75,12 @@ Account10 is the starting point for the four accounts. Play with the tests (comm
 
 ✅ &nbsp; [Lean Account/Develop 17 July](https://github.com/evajavadev/Lean_AccountDevelop17July)
 
-In account17 the error is solved. And `placeOrder` is added. 
+In account17 the error is solved. And `placeOrder` is added. Additionally, contains last commit (3 aug) the mapper. 
 
 <br>
 <br>
 
-> &nbsp; [Lean Account/Develop July Merged](https://github.com/evajavadev/Lean_AccountDevelopJulyMerged) 
+✅ &nbsp; [Lean Account/Develop July Merged](https://github.com/evajavadev/Lean_AccountDevelopJulyMerged) 
 
 A plain merge between the two accounts above. For an easy history comparison. 
 
@@ -83,7 +89,20 @@ A plain merge between the two accounts above. For an easy history comparison.
 
 > &nbsp; [Lean Account/Develop New Services](https://github.com/evajavadev/Lean_AccountDevelopNewServices)  
 
-The merged account with additional new services.
+The merged account with additional new services. Together with a more technical description.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Project title
+
+<br>
+
+text...
 
 <br>
 <br>
