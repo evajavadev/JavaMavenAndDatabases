@@ -28,6 +28,7 @@ text...
 <br>
 <br>
 <br>
+<br>
 
 ## The Lean Account
 
@@ -35,7 +36,7 @@ text...
 
 The four repo's below are a continuation from a school assignment, where the orginally account resides under the develop branch in our school repository.
 
-In this stage I found it useful and really educating to separate the project components now in use, from the ones that will be added later on. So the Lean Account includes only the following components: 
+In this stage I found it useful and really educating to separate the project components now in use, from the ones that will be added later on in our lessons. So the Lean Account includes only the following components: 
 
 <br>
 
@@ -50,8 +51,16 @@ Whereas the project all together includes the following components:
 ![the components all together](/images/components_alltogether.jpg)  
 
 <br>
+<br>
+<br>
 
-...
+### The mapper
+
+In account10 you will notice that all dependencies that involves lexicon.se (in POMs and files) are not changed. I found it not necessary, as well as to be able to have as few components as possible I just changed the ones that needed to be renamed.
+
+But changing all, the mapper component has to be added.
+
+A great help when testing this, is to use the Maven tool (View -> Tool Windows -> Maven). Here one can check each component's lifecycle, plugins and dependencies. Download sources, re-import maven projects and more.   
 
 <br>
 
@@ -94,6 +103,7 @@ A plain merge between the two accounts above. For an easy history comparison.
 The merged account with additional new services. Together with a more technical description.
 
 
+<br>
 <br>
 <br>
 <br>
