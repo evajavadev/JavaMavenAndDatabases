@@ -56,7 +56,7 @@ Whereas the project all together includes the following components:
 
 ### The mapper
 
-In account10 you will notice that all dependencies that involves lexicon.se (in POMs and files) are not changed. I found it not necessary, as well as to be able to have as few components as possible I just changed the ones that needed to be renamed.
+In account10 you will notice that all dependencies that involves lexicon.se (POMs and files) are not changed. I found it not necessary, as well as to be able to have as few components as possible I just changed the ones that needed to be renamed.
 
 But changing all, the mapper component has to be added.
 
