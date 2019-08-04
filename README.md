@@ -64,7 +64,7 @@ A great help when testing this, is to use the Maven tool (View -> Tool Windows -
 
 <br>
 
-![the components all together](/images/components_mapper.jpg)
+![the components all together](/images/components_mapperSmall.jpg)
  
 <br>
 <br>
@@ -103,6 +103,7 @@ A plain merge between the two accounts above. For an easy history comparison.
 The merged account with additional new services. Together with a more technical description.
 
 
+<br>
 <br>
 <br>
 <br>
