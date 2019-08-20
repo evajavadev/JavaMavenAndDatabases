@@ -11,19 +11,19 @@ Java Maven Spring projects with and without databases
 
 ### What is Spring?
 
-[An overview and in the context of following applications]  
+[An overview, and in the context of following applications]  
 
 <br>
 
 ### What is Maven?
 
-[An overview and in the context of following applications] 
+[An overview, and in the context of following applications] 
 
 <br>
 
 ### Databases
 
-[Later text for the next project below, and a comparison]
+[Later text for next projects, and a comparison]
 
 <br>
 <br>
